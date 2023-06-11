@@ -1,1 +1,1 @@
-# BadmintonXR is about a multiplayer VR badminton game which named Badminton Battle
+# badmintonxr is about a multiplayer VR badminton game which named Badminton Battle
